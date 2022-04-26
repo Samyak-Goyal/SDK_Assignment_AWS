@@ -48,7 +48,7 @@ const ListInstance = () => {
                     </thead>
                     <tbody>
                     
-                        {/* {lists.map(list => {
+                         {lists.map(list => {
                             return list.Instances.map(inst => {
 
                                 return <tr key={inst.LaunchTime}>
@@ -65,7 +65,7 @@ const ListInstance = () => {
                                 </tr>
                             })
 
-                        })} */}
+                        })} 
 
                     </tbody>
                 </table>
